@@ -1,3 +1,0 @@
-Bu metin with ile eklenmiþtir. Bu metin with ile eklenmiþtir. Merhaba bu bir test satýrýdýr.0. test satýrý.1. test satýrý.2. test satýrý.3. test satýrý.4. test satýrý.Bu dosya demo olarak oluþturulmuþtur.
-Bu dosya üzerinde pyhton dosya iþlemleri yapýlacaktýr.
-Ýyi çalýþmlar...
