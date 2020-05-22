@@ -1,4 +1,4 @@
-# herkesicinpythonkursu
+# herkes icin python kursu
 "Kurs videolarının python kodlarıdır."
-"Kurs videoları konu anlatımlarını desteklemek için kod pratiği ve örnek uygulama videolarında kullanılar kodlardan oluşmaktadır."
+"Kurs videolarını desteklemek için kod pratiği ve örnek uygulamalarda kullanılan kodlardan oluşmaktadır."
 "Happy pythoning!"
