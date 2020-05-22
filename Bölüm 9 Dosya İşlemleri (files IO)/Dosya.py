@@ -102,7 +102,7 @@
 #
 # kopyalama("file.txt","file2.txt")
 
-# Binary Dosyalar için:
+# Binary Dosyalar için: (b ifadesini mode ifadesine ekliyoruz)
 
 # def kopyalama(file,newfile):
 #     with open(file,"rb") as okunacakDosya:
